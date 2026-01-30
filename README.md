@@ -13,7 +13,7 @@ Com o dataframe a disposição, no Power BI, carregar os dados, fazer os ajustes
 Com esse relatório, o gestor poderá tomar a melhor decisão. Veja foto do relatório:
 
 ![relatorio_segmentacao_clientes_area_marketing](https://github.com/user-attachments/assets/bf75d9b3-0679-4b99-9fc2-c6111698c06c)
-
+foto: Relatório segmentação de clientes
 
 Problema de negócio 2:
 Imagine que uma empresa da área financeira tenha dados históricos de clientes com duas transações financeiras (aqui chamadas de “transacao1” e “transacao2”). 
@@ -30,15 +30,15 @@ Com esse relatório, o gestor poderá tomar a melhor decisão. Veja fotos:
 
 ![relatorio_inicial](https://github.com/user-attachments/assets/ba4822d5-6dc9-44bc-868c-6c07a08e0ba8)
 
-foto: relatório carregado
+foto: Relatório carregado
 
 ![relatorio_casos_anomalia](https://github.com/user-attachments/assets/5e45715a-cdd2-401c-8535-090f2c686922)
 
-foto: relatório com casos de transações com anomalias (Selecionar o botão 'anomalia')
+foto: Relatório com casos de transações com anomalias (Selecionar o botão 'anomalia')
 
 ![relatorio_casos_normais](https://github.com/user-attachments/assets/6e4cc07b-6179-41d0-b4eb-5fe623b5f3f8)
 
-foto: relatório com casos de transações normais (Selecionar o botão 'normal')
+foto: Relatório com casos de transações normais (Selecionar o botão 'normal')
 
 Problema de negócio 3:
 
@@ -48,7 +48,7 @@ O Dashboard criado ao final da atividade serve como ponto de partida para o dia 
 Os dados usados no Lab são fictícios e estão disponíveis em anexo. Veja foto:
 
 ![relatorio_eng_producao_com_power_bi_ia](https://github.com/user-attachments/assets/f2d76945-ee61-47dd-82d1-bc767130db77)
-foto: relatório com Power BI com foco em séries temporais: Engenharia de Produção.
+foto: Relatório com Power BI com foco em séries temporais: Engenharia de Produção.
 
 IMPORTANTE! Ao abrir o relatório no Power BI, certificque-se de atualizar o caminho para a respectiva base de dados. 
 Precisa clicar em transformar dados, ir na engrenagem no canto inferior direito em 'fonte' e atualizar. Veja foto com um passo a passo da configuração:

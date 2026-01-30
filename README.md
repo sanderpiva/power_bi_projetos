@@ -1,59 +1,100 @@
-Projetos com Power BI
+# 📊 Projetos com Power BI & Data Science
 
-Problema de negócio 1: 
-Imagine que uma empresa tenha dados históricos de clientes que fizeram compras de produtos ou serviços. Os dados incluem, para cada cliente: idade, renda anual e uma pontuação
-de gasto (poder de compra do cliente).
-A empresa gostaria de segmentar esses clientes em 3 grupos de acordo com similaridades a fim de personalizar as campanhas de Marketing.
-O gestor da área de Marketing espera receber um relatório com os 3 segmentos e para cada segmento a média de idade, renda anual e pontuação de gastos dos clientes.
+Este repositório apresenta soluções práticas para problemas de negócio, unindo o poder de visualização do **Power BI** com algoritmos de **Machine Learning** em Python e R.
 
-Solução?
+---
 
-Criar um codigo no Google Colab em Python para definir o modelo preditivo (Clusterização), agrupando a partir de padrões de cada cliente. 
-Com o dataframe a disposição, no Power BI, carregar os dados, fazer os ajustes necessários se houver e construir um relatório com gráficos para análise de dados.
-Com esse relatório, o gestor poderá tomar a melhor decisão. Veja foto do relatório:
+## 🎯 Problema de Negócio 1: Segmentação de Clientes
+**Cenário:** A empresa busca agrupar clientes por similaridade (Idade, Renda e Score de Gastos) para personalizar campanhas de marketing.
 
-![relatorio_segmentacao_clientes_area_marketing](https://github.com/user-attachments/assets/bf75d9b3-0679-4b99-9fc2-c6111698c06c)
-foto: Relatório segmentação de clientes
+* **Tecnologia:** Python (Pandas, Scikit-Learn) no Google Colab.
+* **Modelo:** Clusterização para definição de 3 perfis distintos.
 
-Problema de negócio 2:
-Imagine que uma empresa da área financeira tenha dados históricos de clientes com duas transações financeiras (aqui chamadas de “transacao1” e “transacao2”). 
-Os gestores acreditam que algumas dessas transações possam ser fraudulentas e gostariam de identificar as eventuais anomalias. 
-Os gestores não fazem ideia do que seria uma anomalia e pediram sua ajuda para encontrar uma solução. 
-De fato, eles não sabem se anomalias realmente ocorreram. Usando dados fictícios usaremos Machine Learning par agrupar os dados de transações
-financeiras dos clientes e então detectar e definir as anomalias (se existirem). O resultado deve ser entregue no formato visual.
+> [!TIP]
+> **Conceito 1:** Foco na observação de padrões comportamentais para segmentação estratégica.
 
-Solução? 
+**Relatório de Segmentação:**
+![Segmentação](https://github.com/user-attachments/assets/bf75d9b3-0679-4b99-9fc2-c6111698c06c)
 
-Criar um código em R, no RStudio para definir o modelo preditivo (IsolationForest), agrupadando os dados a partir de dois grupos: normais e com anomalias.
-Com o dataframe a disposição, no Power BI, carregar os dados, fazer os ajustes necessários se houver e construir um relatório com gráficos para análise de dados.
-Com esse relatório, o gestor poderá tomar a melhor decisão. Veja fotos:
+---
 
-![relatorio_inicial](https://github.com/user-attachments/assets/ba4822d5-6dc9-44bc-868c-6c07a08e0ba8)
+# 📊 Projetos com Power BI & Data Science
 
-foto: Relatório carregado
+Este repositório apresenta soluções práticas para problemas de negócio, unindo o poder de visualização do **Power BI** com algoritmos de **Machine Learning** em Python e R.
 
-![relatorio_casos_anomalia](https://github.com/user-attachments/assets/5e45715a-cdd2-401c-8535-090f2c686922)
+---
 
-foto: Relatório com casos de transações com anomalias (Selecionar o botão 'anomalia')
+## 🎯 Problema de Negócio 1: Segmentação de Clientes
+**Cenário:** A empresa busca agrupar clientes por similaridade (Idade, Renda e Score de Gastos) para personalizar campanhas de marketing.
 
-![relatorio_casos_normais](https://github.com/user-attachments/assets/6e4cc07b-6179-41d0-b4eb-5fe623b5f3f8)
+* **Tecnologia:** Python (Pandas, Scikit-Learn) no Google Colab.
+* **Modelo:** Clusterização para definição de 3 perfis distintos.
 
-foto: Relatório com casos de transações normais (Selecionar o botão 'normal')
+> [!TIP]
+> **Conceito 1:** Foco na observação de padrões comportamentais para segmentação estratégica.
 
-Problema de negócio 3:
+**Relatório de Segmentação:**
+<br>
 
-Nesta projeto, o Power BI é usado para manipular e compreender os dados, explorando alguns conceitos de análise de séries temporais. 
-Por fim, são apresentados recursos de IA do Power BI para prever a média de unidades produzidas ao longo do tempo e detecção de anomalias. 
-O Dashboard criado ao final da atividade serve como ponto de partida para o dia a dia de Engenheiros de Produção.
-Os dados usados no Lab são fictícios e estão disponíveis em anexo. Veja foto:
+![Segmentação](https://github.com/user-attachments/assets/bf75d9b3-0679-4b99-9fc2-c6111698c06c)
 
-![relatorio_eng_producao_com_power_bi_ia](https://github.com/user-attachments/assets/f2d76945-ee61-47dd-82d1-bc767130db77)
-foto: Relatório com Power BI com foco em séries temporais: Engenharia de Produção.
+---
 
-IMPORTANTE! Ao abrir o relatório no Power BI, certificque-se de atualizar o caminho para a respectiva base de dados. 
-Precisa clicar em transformar dados, ir na engrenagem no canto inferior direito em 'fonte' e atualizar. Veja foto com um passo a passo da configuração:
+## 🛡️ Problema de Negócio 2: Detecção de Anomalias Financeiras
+**Cenário:** Identificar transações suspeitas em dados históricos sem que o padrão de fraude seja previamente conhecido.
 
-![definindo_caminho_base_dados_exemplo](https://github.com/user-attachments/assets/c8a0cca3-cef8-4c94-9bdd-72902fa15b24)
-foto: Configurando caminho para sua base dados no Power BI
+* **Tecnologia:** Linguagem R (RStudio).
+* **Modelo:** *Isolation Forest* para detecção de outliers.
+<br><br><br><br>
 
-FIM
+**1. Relatório Inicial (Visão Geral):**
+<br><br>
+
+![Inicial](https://github.com/user-attachments/assets/ba4822d5-6dc9-44bc-868c-6c07a08e0ba8)
+
+<br><br>
+
+**2. Casos de Anomalia Detectados:**
+<br><br>
+
+![Anomalia](https://github.com/user-attachments/assets/5e45715a-cdd2-401c-8535-090f2c686922)
+
+<br><br>
+
+**3. Casos Classificados como Normais:**
+<br><br>
+
+<img width="886" height="493" alt="image" src="https://github.com/user-attachments/assets/4043e624-0357-490c-a5dc-3105fcf67f09" />
+
+
+---
+
+## 📈 Problema de Negócio 3: Engenharia de Produção (IA)
+**Cenário:** Análise de séries temporais para prever a produção e identificar quedas anormais na linha produtiva.
+
+* **Tecnologia:** Inteligência Artificial Nativa do Power BI.
+* **Recursos:** Forecasting (Previsão) e Detecção de anomalias em tempo real.
+
+**Relatório de Séries Temporais:**
+<br>
+
+![Engenharia](https://github.com/user-attachments/assets/f2d76945-ee61-47dd-82d1-bc767130db77)
+
+---
+
+## ⚙️ Configuração do Ambiente
+
+> [!IMPORTANT]
+> Para que o relatório funcione corretamente na sua máquina, siga este passo a passo para atualizar os caminhos dos dados:
+
+1. No Power BI, clique em **Transformar Dados**.
+2. No painel direito, procure a etapa **Fonte** e clique no ícone da **Engrenagem**.
+3. Altere o caminho do arquivo para o local onde você salvou a base de dados.
+
+**Guia Visual de Configuração:**
+<br>
+
+![Configuração](https://github.com/user-attachments/assets/c8a0cca3-cef8-4c94-9bdd-72902fa15b24)
+
+---
+**FIM**

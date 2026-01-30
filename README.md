@@ -14,26 +14,6 @@ Este repositório apresenta soluções práticas para problemas de negócio, uni
 > **Conceito 1:** Foco na observação de padrões comportamentais para segmentação estratégica.
 
 **Relatório de Segmentação:**
-![Segmentação](https://github.com/user-attachments/assets/bf75d9b3-0679-4b99-9fc2-c6111698c06c)
-
----
-
-# 📊 Projetos com Power BI & Data Science
-
-Este repositório apresenta soluções práticas para problemas de negócio, unindo o poder de visualização do **Power BI** com algoritmos de **Machine Learning** em Python e R.
-
----
-
-## 🎯 Problema de Negócio 1: Segmentação de Clientes
-**Cenário:** A empresa busca agrupar clientes por similaridade (Idade, Renda e Score de Gastos) para personalizar campanhas de marketing.
-
-* **Tecnologia:** Python (Pandas, Scikit-Learn) no Google Colab.
-* **Modelo:** Clusterização para definição de 3 perfis distintos.
-
-> [!TIP]
-> **Conceito 1:** Foco na observação de padrões comportamentais para segmentação estratégica.
-
-**Relatório de Segmentação:**
 <br>
 
 ![Segmentação](https://github.com/user-attachments/assets/bf75d9b3-0679-4b99-9fc2-c6111698c06c)

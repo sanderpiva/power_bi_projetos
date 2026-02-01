@@ -1,6 +1,6 @@
 # 📊 Projetos com Power BI & Data Science
 
-Este repositório apresenta soluções práticas para problemas de negócio, unindo o poder de visualização do **Power BI** com algoritmos de **Machine Learning** em Python e R.
+Este repositório apresenta soluções práticas para problemas de negócio, unindo o poder de visualização do **Power BI** com algoritmos de **Machine Learning** em Python e R. As bases de dados utilizadas são fictícias, com foco em demonstração técnica e analítica.
 
 ---
 
@@ -8,7 +8,7 @@ Este repositório apresenta soluções práticas para problemas de negócio, uni
 **Cenário:** A empresa busca agrupar clientes por similaridade (Idade, Renda e Score de Gastos) para personalizar campanhas de marketing.
 
 * **Tecnologia:** Python (Pandas, Scikit-Learn) no Google Colab.
-* **Modelo:** Clusterização para definição de 3 perfis distintos.
+* **Modelo:** Clusterização (aprendizado não supervisionado) para definição de 3 perfis distintos.
 
 > [!TIP]
 > **Dica:** Foco na observação de padrões comportamentais para segmentação estratégica.
@@ -24,7 +24,7 @@ Este repositório apresenta soluções práticas para problemas de negócio, uni
 **Cenário:** Identificar transações suspeitas em dados históricos sem que o padrão de fraude seja previamente conhecido.
 
 * **Tecnologia:** Linguagem R (RStudio).
-* **Modelo:** *Isolation Forest* para detecção de outliers.
+* **Modelo:** *Isolation Forest* (aprendizado não supervisionado) para detecção de outliers.
 <br><br><br><br>
 
 **1. Relatório Inicial (Visão Geral):**

@@ -1,7 +1,7 @@
 # 📊 Projetos com Power BI & Data Science
 
 Este repositório apresenta soluções práticas para problemas de negócio, unindo o poder de visualização do **Power BI** com algoritmos de **Machine Learning** em Python e R. 
-Os projetos aqui desenvolvidos foram inspirados e fundamentados no conteúdo didático da **Data Science Academy (DSA)**. As bases de dados utilizadas são fictícias, com foco em demonstração técnica e analítica.
+Os projetos aqui desenvolvidos foram inspirados a partir do conteúdo didático da **Data Science Academy (DSA)**. As bases de dados utilizadas são fictícias, com foco em demonstração técnica e analítica.
 
 ---
 

@@ -11,7 +11,7 @@ Este repositório apresenta soluções práticas para problemas de negócio, uni
 * **Modelo:** Clusterização para definição de 3 perfis distintos.
 
 > [!TIP]
-> **Conceito 1:** Foco na observação de padrões comportamentais para segmentação estratégica.
+> **Dica:** Foco na observação de padrões comportamentais para segmentação estratégica.
 
 **Relatório de Segmentação:**
 <br>

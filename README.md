@@ -15,10 +15,24 @@ Este repositório apresenta soluções práticas para problemas de negócio, uni
 > [!TIP]
 > **Dica:** Foco na observação de padrões comportamentais para segmentação estratégica.
 
-**Relatório de Segmentação:**
+**Relatório de Segmentação Inicial:**
 <br>
 
 ![Segmentação](https://github.com/user-attachments/assets/bf75d9b3-0679-4b99-9fc2-c6111698c06c)
+
+**Interpretação dos Clusters:** Após a clusterização, os grupos foram rotulados com base na observação das médias de idade:
+  
+<ul>
+  <li>Cluster 0 → Jovem: Clientes com perfil de menor idade (Média: 27 anos).</li>
+  <li>Cluster 1 → Meia-idade: Clientes na faixa intermediária (Média: 53 anos).</li>
+  <li>Cluster 2 → Sênior: Clientes com 54 anos ou mais (Média: 54 anos).</li>
+</ul>
+<br>
+
+**Relatório de Segmentação Final:**
+<br><br>
+![relatorio_segmentacao_clientes_area_marketing](https://github.com/user-attachments/assets/6dc86cab-2d23-4316-9ec5-cd8c33e78aaa)
+
 
 ---
 

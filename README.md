@@ -46,21 +46,23 @@ Este repositório apresenta soluções práticas para problemas de negócio, uni
 **1. Relatório Inicial (Visão Geral):**
 <br><br>
 
-![Inicial](https://github.com/user-attachments/assets/ba4822d5-6dc9-44bc-868c-6c07a08e0ba8)
+![relatorio_inicial](https://github.com/user-attachments/assets/d59f0bd8-3f79-4170-b09e-651908908d25)
 
 <br><br>
 
 **2. Casos de Anomalia Detectados:**
 <br><br>
 
-![Anomalia](https://github.com/user-attachments/assets/5e45715a-cdd2-401c-8535-090f2c686922)
+![relatorio_casos_anomalia](https://github.com/user-attachments/assets/1ac4cd86-864c-4437-a4ef-d745cb5e4f35)
+
 
 <br><br>
 
 **3. Casos Classificados como Normais:**
 <br><br>
 
-<img width="886" height="493" alt="image" src="https://github.com/user-attachments/assets/4043e624-0357-490c-a5dc-3105fcf67f09" />
+![relatorio_casos_normais](https://github.com/user-attachments/assets/002f4e41-c56b-4850-a478-71acf8691ae9)
+
 
 
 ---

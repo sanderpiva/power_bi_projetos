@@ -41,7 +41,7 @@ Este repositório apresenta soluções práticas para problemas de negócio, uni
 
 * **Tecnologia:** Linguagem R (RStudio).
 * **Modelo:** *Isolation Forest* (aprendizado não supervisionado) para detecção de outliers.
-<br><br><br><br>
+<br><br><br>
 
 **1. Relatório Inicial (Visão Geral):**
 <br><br>

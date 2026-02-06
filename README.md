@@ -64,7 +64,16 @@ Este repositório apresenta soluções práticas para problemas de negócio, uni
 
 ![relatorio_casos_normais](https://github.com/user-attachments/assets/002f4e41-c56b-4850-a478-71acf8691ae9)
 
+<br><br>
 
+**4. Integração com Script R (Visualização Customizada):**
+<br><br>
+Para superar as limitações de gráficos nativos do Power BI e obter uma análise estatística mais profunda, foi utilizado um script em R com a biblioteca `ggplot2` para gerar os gráficos de BoxPlot diretamente no dashboard.
+
+![4-adicionando_script_R_ao_relatorio](https://github.com/user-attachments/assets/2f1b8ca3-3b44-4a35-b925-da9a3cb4df4a)
+
+
+<br><br>
 
 ---
 

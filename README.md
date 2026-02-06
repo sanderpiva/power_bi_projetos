@@ -46,7 +46,8 @@ Este repositório apresenta soluções práticas para problemas de negócio, uni
 **1. Relatório Inicial (Visão Geral):**
 <br><br>
 
-![relatorio_inicial](https://github.com/user-attachments/assets/d59f0bd8-3f79-4170-b09e-651908908d25)
+![relatorio_inicial](https://github.com/user-attachments/assets/abd03a10-e095-46ff-b9a3-7b9f026a5496)
+
 
 <br><br>
 

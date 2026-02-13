@@ -105,4 +105,4 @@ Para superar as limitações de gráficos nativos do Power BI e obter uma análi
 ![Configuração](https://github.com/user-attachments/assets/c8a0cca3-cef8-4c94-9bdd-72902fa15b24)
 
 ---
-**FIM**
+**Autor:** Sander Gustavo Piva

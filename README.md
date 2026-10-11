@@ -18,7 +18,8 @@ Este repositório apresenta soluções práticas para problemas de negócio, uni
 **Relatório de Segmentação Inicial:**
 <br>
 
-![Segmentação](https://github.com/user-attachments/assets/bf75d9b3-0679-4b99-9fc2-c6111698c06c)
+<img width="756" height="416" alt="1" src="https://github.com/user-attachments/assets/9e8bd1f3-72c0-46bb-b358-d3ad031c3ae6" />
+
 
 **Interpretação dos Clusters:** Após a clusterização, os grupos foram rotulados com base na observação das médias de idade:
   
@@ -31,7 +32,8 @@ Este repositório apresenta soluções práticas para problemas de negócio, uni
 
 **Relatório de Segmentação Final:**
 <br><br>
-![relatorio_segmentacao_clientes_area_marketing](https://github.com/user-attachments/assets/6dc86cab-2d23-4316-9ec5-cd8c33e78aaa)
+<img width="758" height="417" alt="2" src="https://github.com/user-attachments/assets/b7384082-2399-4251-b657-548804d15d68" />
+
 
 
 ---
@@ -46,7 +48,8 @@ Este repositório apresenta soluções práticas para problemas de negócio, uni
 **1. Relatório Inicial (Visão Geral):**
 <br><br>
 
-![relatorio_inicial](https://github.com/user-attachments/assets/abd03a10-e095-46ff-b9a3-7b9f026a5496)
+<img width="754" height="407" alt="3" src="https://github.com/user-attachments/assets/6d4b32c8-8416-4279-b5e6-d8c9e2e1bb7e" />
+
 
 
 <br><br>
@@ -54,7 +57,8 @@ Este repositório apresenta soluções práticas para problemas de negócio, uni
 **2. Casos de Anomalia Detectados:**
 <br><br>
 
-![relatorio_casos_anomalia](https://github.com/user-attachments/assets/1ac4cd86-864c-4437-a4ef-d745cb5e4f35)
+<img width="754" height="410" alt="4" src="https://github.com/user-attachments/assets/e4faadca-3c16-4dc1-b463-2c56a1b72ca4" />
+
 
 
 <br><br>
@@ -62,7 +66,8 @@ Este repositório apresenta soluções práticas para problemas de negócio, uni
 **3. Casos Classificados como Normais:**
 <br><br>
 
-![relatorio_casos_normais](https://github.com/user-attachments/assets/002f4e41-c56b-4850-a478-71acf8691ae9)
+<img width="758" height="412" alt="5" src="https://github.com/user-attachments/assets/8068ad04-f7f1-4491-90ed-2e791a23bb91" />
+
 
 <br><br>
 
@@ -70,7 +75,8 @@ Este repositório apresenta soluções práticas para problemas de negócio, uni
 <br><br>
 Para superar as limitações de gráficos nativos do Power BI e obter uma análise estatística mais profunda, foi utilizado um script em R com a biblioteca `ggplot2` para gerar os gráficos de BoxPlot diretamente no dashboard.
 
-![4-adicionando_script_R_ao_relatorio](https://github.com/user-attachments/assets/2f1b8ca3-3b44-4a35-b925-da9a3cb4df4a)
+<img width="761" height="484" alt="6" src="https://github.com/user-attachments/assets/b403a9ac-62b9-423b-ba4f-c5517e28e7ea" />
+
 
 
 <br><br>
@@ -86,7 +92,8 @@ Para superar as limitações de gráficos nativos do Power BI e obter uma análi
 **Relatório de Séries Temporais:**
 <br>
 
-![Engenharia](https://github.com/user-attachments/assets/f2d76945-ee61-47dd-82d1-bc767130db77)
+<img width="773" height="453" alt="7" src="https://github.com/user-attachments/assets/cff4338f-22f6-41b4-ab53-df6a7bb0a056" />
+
 
 ---
 
@@ -102,7 +109,8 @@ Para superar as limitações de gráficos nativos do Power BI e obter uma análi
 **Guia Visual de Configuração:**
 <br>
 
-![Configuração](https://github.com/user-attachments/assets/c8a0cca3-cef8-4c94-9bdd-72902fa15b24)
+<img width="791" height="443" alt="8" src="https://github.com/user-attachments/assets/19bed5d6-14a0-4d70-895e-ceb8546cbe25" />
+
 
 ---
 **Autor:** Sander Gustavo Piva
